@@ -20,7 +20,7 @@ If you need an enthusiastic and goal-oriented developer with a solid technical f
 ### Socials: 📱
 [![Telegram](https://img.shields.io/badge/-Telegram-27A0D9?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/AugustWeissenberg)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-007BB6?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/роман-витик-90009b218/)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-4F7DB3?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/august_waissenberg)
+[![Vkontakte](https://img.shields.io/badge/-Vk-4F7DB3?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/august_waissenberg)
 <!--
 **PepeDux/PepeDux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
