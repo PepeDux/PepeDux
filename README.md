@@ -6,11 +6,8 @@ I am a programmer based in Novosibirsk, having recently graduated from college w
 My key skills include:
 
 • .NET: Developing high-performance applications using the .NET framework, writing clean and maintainable code.
-
 • SQL and MSSQL: Designing, optimizing, and administering databases, writing complex SQL queries and stored procedures to ensure efficient interaction between applications and databases.
-
 • Unity: Creating interactive and engaging 2D and 3D games, working with physics, animation, and user interfaces.
-
 • Godot: Developing games and applications using this lightweight and flexible engine, scripting in GDScript and C#.
 
 
