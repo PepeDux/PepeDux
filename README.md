@@ -2,7 +2,7 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/PepeDux)
 
 ## Languages and Tools:
 ![.NET](https://img.shields.io/badge/-FRAMEWORK-090909?style=for-the-badge&logo=.NET&logoColor=097CDB)
