@@ -1,4 +1,4 @@
-## About me
+## About me 👋
 
 
 I am a programmer based in Novosibirsk, having recently graduated from college with a degree in Information Technology. I possess experience working with a technology stack that includes .NET, SQL, MSSQL, Unity, and Godot.
@@ -9,7 +9,7 @@ If you need an enthusiastic and goal-oriented developer with a solid technical f
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PepeDux&show_icons=true&theme=transparent)](https://github.com/PepeDux)
 
-## Languages and Tools:
+## Languages and Tools: 🔧
 ![.NET](https://img.shields.io/badge/-FRAMEWORK-090909?style=for-the-badge&logo=.NET&logoColor=097CDB)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=SQL&logoColor=F8C52C)
 ![MSSQL](https://img.shields.io/badge/-MSSQL-090909?style=for-the-badge&logo=MSSQL&logoColor=F88C00)
@@ -17,7 +17,7 @@ If you need an enthusiastic and goal-oriented developer with a solid technical f
 ![Godot](https://img.shields.io/badge/-Godot-090909?style=for-the-badge&logo=Godot&logoColor=E5D3FF)
 
 
-### Socials:
+### Socials: 📱
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/AugustWeissenberg)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/роман-витик-90009b218/)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/august_waissenberg)
