@@ -10,8 +10,8 @@ If you need an enthusiastic and goal-oriented developer with a solid technical f
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PepeDux&show_icons=true&theme=transparent)](https://github.com/PepeDux)
 
 ## Languages and Tools: 🔧
-![.NET](https://img.shields.io/badge/-FRAMEWORK-2a7aef?style=for-the-badge&logo=.NET&logoColor=097CDB)
-![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=SQL&logoColor=F8C52C)
+![.NET](https://img.shields.io/badge/-FRAMEWORK-097CDB?style=for-the-badge&logo=.NET&logoColor=097CDB)
+![SQL](https://img.shields.io/badge/-SQL-F8C52C?style=for-the-badge&logo=SQL&logoColor=F8C52C)
 ![MSSQL](https://img.shields.io/badge/-MSSQL-090909?style=for-the-badge&logo=MSSQL&logoColor=F88C00)
 ![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=Unity&logoColor=E9D54D)
 ![Godot](https://img.shields.io/badge/-Godot-090909?style=for-the-badge&logo=Godot&logoColor=E5D3FF)
